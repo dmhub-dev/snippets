@@ -1,6 +1,6 @@
 # Laravel Snippets
 
-![Laravel](https://img.shields.io/badge/Laravel-9.x-red)  
+![Laravel](https://img.shields.io/badge/Laravel-11.x-green)  
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)  
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
